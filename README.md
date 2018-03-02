@@ -1,2 +1,1 @@
-# GeforcenowBotPUBLIC
-Public edition of GeforceNowBot
+# gmbot
